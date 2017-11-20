@@ -8,3 +8,5 @@
 *.tar
 *.zip
 *.log
+*.xml
+*.iml
